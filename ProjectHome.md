@@ -1,0 +1,1 @@
+Creates a faster, on command ADC for the MDA300 using MoteWorks XMesh framework.
